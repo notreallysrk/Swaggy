@@ -120,7 +120,7 @@ _CIRCLE_SIZE = (354, 354)
 _CIRCLE_PASTE_POS = (280, 232)
 
 _TEXT_FONT_SIZE = 53
-_TEXT_COLOR = (225, 200, 145)  # gold/tan, matching template labels
+_TEXT_COLOR = (66, 193, 63)  # gold/tan, matching template labels
 _UID_DRAW_POS = (1020, 712)
 _UNAME_DRAW_POS = (1020, 786)
 _MAX_TEXT_X = 1680  # right boundary for text truncation
