@@ -40,7 +40,7 @@ def private_panel(_):
                 text=_["S_B_3"],
                 url=f"https://t.me/{app.username}?startgroup=true",
                 style=ButtonStyle.PRIMARY,
-                icon_custom_emoji_id=6100125944381444896,
+                icon_custom_emoji_id=5203951816588430946,
             )
         ],
         [
@@ -48,21 +48,21 @@ def private_panel(_):
                 text=_["S_B_4"],
                 callback_data="settings_back_helper",
                 style=ButtonStyle.PRIMARY,
-                icon_custom_emoji_id=5260512129240276089,
+                icon_custom_emoji_id=5422869288962784257,
             ),
         ],
         [
             InlineKeyboardButton(
-                text="⌯ ᴏᴡɴᴇʀ ⌯",
+                text="Tʜᴇ Aʀᴄʜᴏɴ",
                 user_id=config.OWNER_ID,
                 style=ButtonStyle.SUCCESS,
-                icon_custom_emoji_id=6237864166879663987,
+                icon_custom_emoji_id=5424632072390078052,
             ),
             InlineKeyboardButton(
-                text="⌯ ɴᴇᴛᴡᴏʀᴋ ⌯",
-                url="https://t.me/SpIcYxNeTwOrK",
+                text="⌯ Nᴇᴛᴡᴏʀᴋ ⌯",
+                url="https://t.me/ArchonNetwork",
                 style=ButtonStyle.SUCCESS,
-                icon_custom_emoji_id=6039381989985882045,
+                icon_custom_emoji_id=5422484648871626179,
             ),
         ],
     ]
